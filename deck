@@ -11,6 +11,8 @@ public class VowelConsonant {
             case 'o':
 
 DIleep
+
+sandeep
             case 'u':
                 System.out.println(ch + " is vowel");
                 break;
